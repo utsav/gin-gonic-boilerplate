@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"
-	"github/utsav/gogin/services"
-	"github/utsav/gogin/structs"
+	"github.com/utsav/gin-gonic-boilerplate/services"
+	"github.com/utsav/gin-gonic-boilerplate/structs"
 )
 
 func GetTodos(c *gin.Context) {

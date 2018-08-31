@@ -1,6 +1,6 @@
 package main
 
-import "github/utsav/gogin/routes"
+import "github.com/utsav/gin-gonic-boilerplate/routes"
 
 func main() {
 	routes.Run()

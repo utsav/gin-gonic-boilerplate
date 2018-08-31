@@ -1,7 +1,7 @@
 package routes
 
 import "github.com/gin-gonic/gin"
-import ctrl "github/utsav/gogin/controllers"
+import ctrl "github.com/utsav/gin-gonic-boilerplate/controllers"
 
 func Run() {
 	r := gin.Default()
