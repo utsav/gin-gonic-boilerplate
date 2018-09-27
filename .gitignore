@@ -12,3 +12,8 @@
 *.out
 
 .env
+
+*.swp
+*.lock
+
+vendor/
